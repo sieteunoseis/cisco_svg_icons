@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 228 81" >
+  <title><![CDATA[FDDI ring]]></title>
+  <g transform=" scale(3.000000) ">
+    <!--converted by libvisio2svg-->
+    <g>
+      <!--emf-blob start-->
+      <g>
+        <path d="M 48.4207,24.5056 C 62.0021,24.5056 72.9262,19.4864 72.9262,13.2862 C 72.9262,7.38119999999998 62.0021,2.36199999999997 48.4207,2.36199999999997 C 34.8393,2.36199999999997 23.9151,7.38119999999998 23.9151,13.2862 C 23.9151,19.4864 34.8393,24.5056 48.4207,24.5056 Z Z " stroke="#036C9B" stroke-width="0.88575" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <g transform=" scale(3.000000) ">
+          <text font-family="Helvetica" fill="#000000" style="white-space:pre;" font-weight="400" text-anchor="start" x="0.0000" y="0.0000" font-size="9.4479"><![CDATA[FDDI]]></text>
+        </g>
+        <g transform=" scale(3.000000) ">
+          <path d="M 48.4207,26.5723 C 63.4783,26.5723 75.8787,20.6673 75.8787,13.2862 C 75.8787,5.90499999999997 63.4783,0 48.4207,0 C 33.363,0 20.9626,5.90499999999997 20.9626,13.2862 C 20.9626,20.6673 33.363,26.5723 48.4207,26.5723 Z Z " stroke="#036C9B" stroke-width="0.88575" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+          <path d="M 2.95249999999999,15.0576 L 24.2104,15.0576 " stroke="#036C9B" stroke-width="0.88575" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+          <path d="M 0,12.4004 L 21.2579,12.4004 " stroke="#036C9B" stroke-width="0.88575" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        </g>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>
+
