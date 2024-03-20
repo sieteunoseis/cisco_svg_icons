@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 111 99" >
+  <title><![CDATA[Cisco hub]]></title>
+  <g transform=" scale(3.000000) ">
+    <!--converted by libvisio2svg-->
+    <g>
+      <!--emf-blob start-->
+      <g>
+        <path d="M 0,32.4621 L 0,3.83639999999997 L 32.4622,3.83639999999997 L 32.4622,32.4621 L 0,32.4621 Z " fill="#046897" stroke="#FFFFFF" stroke-width="0.88535" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 3.54139999999995,0 L 0,3.83639999999997 L 32.4622,3.83639999999997 L 36.2987,0 L 3.54139999999995,0 Z " fill="#046897" stroke="#FFFFFF" stroke-width="0.88535" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 36.2987,28.6257 L 36.2987,0 L 32.4622,3.83639999999997 L 32.4622,32.4621 L 36.2987,28.6257 Z " fill="#046897" stroke="#FFFFFF" stroke-width="0.88535" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 29.8062,6.49239999999998 L 2.9511,6.49239999999998 L 2.9511,30.1013 L 29.8062,30.1013 L 29.8062,6.49239999999998 Z " fill="#046897" stroke="#FFFFFF" stroke-width="0.88535" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 28.3307,15.0506 C 28.3307,17.7066 23.0187,19.7724 16.5262,19.7724 C 10.0338,19.7724 4.72179999999997,17.7066 4.72179999999997,15.0506 C 4.72179999999997,21.8382 4.72179999999997,21.8382 4.72179999999997,21.8382 C 4.72179999999997,24.4942 10.0338,26.5599 16.5262,26.5599 C 23.0187,26.5599 28.3307,24.4942 28.3307,21.8382 Z Z " fill="#046897" stroke="#FFFFFF" stroke-width="0.88535" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 16.5262,19.7724 C 23.0187,19.7724 28.3307,17.7066 28.3307,15.0506 C 28.3307,12.6897 23.0187,10.6239 16.5262,10.6239 C 10.0338,10.6239 4.72179999999997,12.6897 4.72179999999997,15.0506 C 4.72179999999997,17.7066 10.0338,19.7724 16.5262,19.7724 Z Z " fill="#046897" stroke="#FFFFFF" stroke-width="0.88535" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 13.8702,13.2799 L 14.7556,14.7555 L 11.2142,15.6408 L 11.8045,15.0506 L 6.19739999999996,14.1653 L 7.67289999999997,12.9848 L 12.9849,13.8702 L 13.8702,13.2799 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 18.8871,16.8213 L 18.2969,15.3457 L 21.5431,14.7555 L 20.9529,15.3457 L 26.56,16.2311 L 25.3796,17.4115 L 19.7725,16.2311 L 18.8871,16.8213 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 17.1165,12.6897 L 20.9529,11.5093 L 20.9529,13.2799 L 20.0676,12.9848 L 18.2969,14.4604 L 16.5262,14.1653 L 18.2969,12.6897 L 17.1165,12.6897 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 15.6409,18.2968 L 12.0996,18.887 L 11.8045,17.4115 L 12.9849,17.4115 L 14.7556,15.9359 L 16.5262,16.2311 L 14.4605,18.0017 L 15.6409,18.2968 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>
+

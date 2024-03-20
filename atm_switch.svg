@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 93 96" >
+  <title><![CDATA[ATM Switch]]></title>
+  <g transform=" scale(3.000000) ">
+    <!--converted by libvisio2svg-->
+    <g>
+      <!--emf-blob start-->
+      <g>
+        <path d="M 25.3937,31.2992 L 25.3937,5.31490000000002 L 0,5.31490000000002 L 0,31.2992 L 25.3937,31.2992 Z " fill="#046897" stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 25.3937,5.31490000000002 L 0,5.31490000000002 L 6.49600000000004,0 L 30.7087,0 L 30.7087,0 L 30.7087,25.9843 L 25.3937,31.2992 L 25.3937,5.31490000000002 L 25.3937,5.31490000000002 Z " fill="#046897" stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 25.3937,5.31490000000002 L 30.7087,0 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 22.1457,25.9843 L 16.5354,25.9843 L 8.85820000000001,10.6299 L 3.83850000000001,10.6299 " stroke="#FFFFFF" stroke-width="2.6575" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 3.54329999999999,25.9843 L 8.85820000000001,25.9843 L 16.5354,10.6299 L 22.4409,10.6299 " stroke="#FFFFFF" stroke-width="2.6575" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 20.374,7.97239999999999 L 20.374,13.2874 L 23.622,10.6299 L 20.374,7.97239999999999 Z " fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.4429" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 20.374,23.0315 L 20.374,28.6417 L 23.622,25.9843 L 20.374,23.0315 Z " fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.4429" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 4.7244,13.5827 L 4.7244,7.97239999999999 L 1.47630000000004,10.6299 L 4.7244,13.5827 Z " fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.4429" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 4.7244,28.6417 L 4.7244,23.3268 L 1.47630000000004,25.9843 L 4.7244,28.6417 Z " fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.4429" stroke-linecap="butt" stroke-linejoin="miter"/>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>
+
