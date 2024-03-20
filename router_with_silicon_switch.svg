@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 123 81" >
+  <title><![CDATA[Router with silicon switch]]></title>
+  <g transform=" scale(3.000000) ">
+    <!--converted by libvisio2svg-->
+    <g>
+      <!--emf-blob start-->
+      <g>
+        <path d="M 40.1435,7.67449999999997 C 40.1435,12.1021 31.2883,15.6442 20.0718,15.6442 C 8.85519999999997,15.6442 0,12.1021 0,7.67449999999997 C 0,19.1863 0,19.1863 0,19.1863 C 0,23.6139 8.85519999999997,26.8608 20.0718,26.8608 C 31.2883,26.8608 40.1435,23.6139 40.1435,19.1863 Z Z " fill="#0E6F9C" stroke="#FFFFFF" stroke-width="0.8855" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 20.0718,15.6442 C 31.2883,15.6442 40.1435,12.1021 40.1435,7.67449999999997 C 40.1435,3.24689999999998 31.2883,0 20.0718,0 C 8.85519999999997,0 0,3.24689999999998 0,7.67449999999997 C 0,12.1021 8.85519999999997,15.6442 20.0718,15.6442 Z Z " fill="#0E6F9C" stroke="#FFFFFF" stroke-width="0.8855" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 13.8731,5.60829999999999 L 16.2345,6.78899999999999 L 11.2166,7.96969999999999 L 12.3972,6.78899999999999 L 3.5421,5.31309999999996 L 4.13239999999996,4.72279999999995 L 12.9876,6.1986 L 13.8731,5.60829999999999 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 26.2704,9.44549999999998 L 23.909,8.26489999999995 L 28.9269,7.3793 L 27.7463,8.26489999999995 L 36.8966,10.0359 L 36.0111,10.6262 L 27.1559,8.85519999999997 L 26.2704,9.44549999999998 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 23.6138,2.95169999999996 L 28.0414,1.1807 L 27.4511,3.5421 L 25.9752,3.24689999999998 L 22.7283,6.1986 L 21.5476,5.90349999999995 L 25.0897,3.24689999999998 L 23.6138,2.95169999999996 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 17.4152,12.1021 L 12.6924,13.8731 L 13.2828,11.8069 L 14.7586,11.8069 L 18.0055,9.15039999999999 L 19.1862,9.15039999999999 L 15.9393,11.8069 L 17.4152,12.1021 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 19.7766,25.9752 C 22.4331,25.9752 24.4993,23.909 24.4993,21.2525 C 24.4993,18.5959 22.4331,16.5297 19.7766,16.5297 C 17.4152,16.5297 15.349,18.5959 15.349,21.2525 C 15.349,23.909 17.4152,25.9752 19.7766,25.9752 Z Z " fill="#000000" stroke="#FFFFFF" stroke-width="0.8855" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <g transform=" scale(3.000000) ">
+          <text font-family="Helvetica" fill="#FFFFFF" style="white-space:pre;" font-weight="700" text-anchor="start" x="0.0000" y="0.0000" font-size="7.0842"><![CDATA[S]]></text>
+        </g>
+        <g transform=" scale(3.000000) ">
+</g>
+        <g transform=" scale(3.000000) ">
+          <text font-family="Helvetica" fill="#FFFFFF" style="white-space:pre;" font-weight="700" text-anchor="start" x="0.0000" y="0.0000" font-size="7.0842"><![CDATA[i]]></text>
+        </g>
+        <g transform=" scale(3.000000) ">
+</g>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>
+

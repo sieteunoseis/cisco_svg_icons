@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 132 87" >
+  <title><![CDATA[RPSRPS]]></title>
+  <g transform=" scale(3.000000) ">
+    <!--converted by libvisio2svg-->
+    <g>
+      <!--emf-blob start-->
+      <g>
+        <path d="M 0,28.6282 L 39.2531,28.6282 L 39.2531,5.60759999999999 L 0,5.60759999999999 L 0,28.6282 Z " fill="#126D99" stroke="#FFFFFF" stroke-width="0.8854" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 43.9753,21.8401 L 39.2531,28.6282 L 39.2531,5.60759999999999 L 43.9753,0 L 43.9753,21.8401 Z " fill="#126D99" stroke="#FFFFFF" stroke-width="0.8854" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 7.08330000000001,0 L 43.9753,0 L 39.2531,5.60759999999999 L 0,5.60759999999999 L 7.08330000000001,0 Z " fill="#126D99" stroke="#FFFFFF" stroke-width="0.8854" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <g transform=" scale(3.000000) ">
+          <text font-family="Helvetica" fill="#FFFFFF" style="white-space:pre;" font-weight="700" text-anchor="start" x="0.0000" y="0.0000" font-size="8.2638"><![CDATA[RPS]]></text>
+        </g>
+        <g transform=" scale(3.000000) ">
+          <path d="M 19.479,21.8401 C 19.479,21.8401 24.4963,21.545 24.4963,21.545 C 24.4963,21.545 18.2984,19.1839 17.1179,18.5936 C 17.1179,18.5936 22.7255,18.5936 22.7255,18.5936 C 5.60759999999999,13.8714 5.60759999999999,13.8714 5.60759999999999,13.8714 C 16.8228,18.0033 16.8228,18.0033 16.8228,18.0033 C 16.8228,18.0033 12.6908,18.2985 12.6908,18.2985 C 12.6908,18.2985 17.1179,20.3644 18.0033,20.6595 C 18.0033,20.6595 14.4617,21.8401 14.4617,21.8401 C 34.5309,27.4477 34.5309,27.4477 34.5309,27.4477 Z Z " fill="#FFFFFF" stroke="none"/>
+        </g>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>
+
