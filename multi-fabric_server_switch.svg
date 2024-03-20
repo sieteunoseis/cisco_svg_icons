@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 96 129" >
+  <title><![CDATA[Multi-fabric server switch]]></title>
+  <g transform=" scale(3.000000) ">
+    <!--converted by libvisio2svg-->
+    <g>
+      <!--emf-blob start-->
+      <g>
+        <path d="M 25.689,42.2244 L 25.689,16.2402 L 0,16.2402 L 0,42.2244 L 25.689,42.2244 Z " fill="#126A98" stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 25.689,16.2402 L 31.004,10.9252 Z " fill="#0F6998" stroke-width="1px" stroke="#0F6998"/>
+        <path d="M 25.689,16.2402 L 31.004,10.9252 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 15.6496,16.2402 L 15.6496,42.2244 Z " fill="#0F6998" stroke-width="1px" stroke="#0F6998"/>
+        <path d="M 15.6496,16.2402 L 15.6496,42.2244 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 25.689,31.2992 L 25.689,5.315 L 0,5.315 L 0,31.2992 L 25.689,31.2992 Z " fill="#126A98" stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 31.004,0 L 31.004,0 L 31.004,36.6142 L 25.689,41.9292 L 25.689,5.315 L 25.689,5.315 L 31.004,0 Z " fill="#126A98" stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 25.689,5.315 L 0.295299999999997,5.315 L 6.49610000000001,0 L 31.004,0 L 25.689,5.315 Z " fill="#126A98" stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 25.689,5.315 L 31.004,0 Z " fill="#126A98" stroke-width="1px" stroke="#126A98"/>
+        <path d="M 25.689,5.315 L 31.004,0 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 25.689,31.5945 L 25.689,31.5945 Z " fill="#0F6998" stroke-width="1px" stroke="#0F6998"/>
+        <path d="M 25.689,31.5945 L 25.689,31.5945 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 0,31.5945 L 0,31.5945 Z " fill="#0F6998" stroke-width="1px" stroke="#0F6998"/>
+        <path d="M 0,31.5945 L 0,31.5945 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 3.54329999999999,11.8111 L 24.2126,11.8111 Z " fill="#0F6998" stroke-width="1px" stroke="#0F6998"/>
+        <path d="M 3.54329999999999,11.8111 L 24.2126,11.8111 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 2.65750000000003,18.3071 L 23.3268,18.3071 Z " fill="#0F6998" stroke-width="1px" stroke="#0F6998"/>
+        <path d="M 2.65750000000003,18.3071 L 23.3268,18.3071 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 1.77170000000001,24.2126 L 22.441,24.2126 Z " fill="#0F6998" stroke-width="1px" stroke="#0F6998"/>
+        <path d="M 1.77170000000001,24.2126 L 22.441,24.2126 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 4.7244,27.7559 L 8.85829999999999,8.26770000000005 Z " fill="#0F6998" stroke-width="1px" stroke="#0F6998"/>
+        <path d="M 4.7244,27.7559 L 8.85829999999999,8.26770000000005 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 17.7166,27.7559 L 22.1457,8.26770000000005 Z " fill="#0F6998" stroke-width="1px" stroke="#0F6998"/>
+        <path d="M 17.7166,27.7559 L 22.1457,8.26770000000005 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 11.2205,27.4607 L 15.3544,7.97250000000003 Z " fill="#0F6998" stroke-width="1px" stroke="#0F6998"/>
+        <path d="M 11.2205,27.4607 L 15.3544,7.97250000000003 " stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 9.7441,11.8111 C 9.7441,12.4016 8.85829999999999,12.9922 7.97250000000003,12.9922 C 7.08660000000003,12.9922 6.49610000000001,12.4016 6.49610000000001,11.8111 C 6.49610000000001,11.2205 7.08660000000003,10.9252 7.97250000000003,10.9252 C 8.85829999999999,10.9252 9.7441,11.2205 9.7441,11.8111 Z Z " fill="#FFFFFF" stroke="none"/>
+        <path d="M 16.2402,11.5158 C 16.2402,12.1063 15.6496,12.6969 14.7638,12.6969 C 13.878,12.6969 12.9922,12.1063 12.9922,11.5158 C 12.9922,10.9252 13.878,10.63 14.7638,10.63 C 15.6496,10.63 16.2402,10.9252 16.2402,11.5158 Z Z " fill="#FFFFFF" stroke="none"/>
+        <path d="M 23.0315,12.1063 C 23.0315,12.6969 22.1457,12.9922 21.2599,12.9922 C 20.374,12.9922 19.7835,12.6969 19.7835,12.1063 C 19.7835,11.5158 20.374,10.9252 21.2599,10.9252 C 22.1457,10.9252 23.0315,11.5158 23.0315,12.1063 Z Z " fill="#FFFFFF" stroke="none"/>
+        <path d="M 7.97250000000003,18.3071 C 7.97250000000003,18.8977 7.38190000000003,19.1929 6.49610000000001,19.1929 C 5.6103,19.1929 5.0197,18.8977 5.0197,18.3071 C 5.0197,17.7166 5.6103,17.126 6.49610000000001,17.126 C 7.38190000000003,17.126 7.97250000000003,17.7166 7.97250000000003,18.3071 Z Z " fill="#FFFFFF" stroke="none"/>
+        <path d="M 14.7638,18.3071 C 14.7638,18.8977 14.1733,19.4882 13.2874,19.4882 C 12.4016,19.4882 11.5158,18.8977 11.5158,18.3071 C 11.5158,17.7166 12.4016,17.4213 13.2874,17.4213 C 14.1733,17.4213 14.7638,17.7166 14.7638,18.3071 Z Z " fill="#FFFFFF" stroke="none"/>
+        <path d="M 21.5551,18.0118 C 21.5551,18.6024 20.6693,19.1929 19.7835,19.1929 C 18.8977,19.1929 18.3071,18.6024 18.3071,18.0118 C 18.3071,17.4213 18.8977,17.126 19.7835,17.126 C 20.6693,17.126 21.5551,17.4213 21.5551,18.0118 Z Z " fill="#FFFFFF" stroke="none"/>
+        <path d="M 6.79140000000001,24.2126 C 6.79140000000001,24.8032 5.90550000000002,25.3937 5.0197,25.3937 C 4.13389999999998,25.3937 3.54329999999999,24.8032 3.54329999999999,24.2126 C 3.54329999999999,23.6221 4.13389999999998,23.3268 5.0197,23.3268 C 5.90550000000002,23.3268 6.79140000000001,23.6221 6.79140000000001,24.2126 Z Z " fill="#FFFFFF" stroke="none"/>
+        <path d="M 13.5827,24.2126 C 13.5827,24.8032 12.6969,25.3937 11.811,25.3937 C 10.9252,25.3937 10.3347,24.8032 10.3347,24.2126 C 10.3347,23.6221 10.9252,23.3268 11.811,23.3268 C 12.6969,23.3268 13.5827,23.6221 13.5827,24.2126 Z Z " fill="#FFFFFF" stroke="none"/>
+        <path d="M 20.0788,24.2126 C 20.0788,24.8032 19.4882,25.3937 18.6024,25.3937 C 17.7166,25.3937 16.8307,24.8032 16.8307,24.2126 C 16.8307,23.6221 17.7166,23.3268 18.6024,23.3268 C 19.4882,23.3268 20.0788,23.6221 20.0788,24.2126 Z Z " fill="#FFFFFF" stroke="none"/>
+        <path d="M 23.9174,33.9567 C 23.9174,34.5473 22.441,35.1378 20.6693,35.1378 C 19.1929,35.1378 17.7166,34.5473 17.7166,33.9567 C 17.7166,39.8622 17.7166,39.8622 17.7166,39.8622 C 17.7166,40.4528 19.1929,40.7481 20.6693,40.7481 C 22.441,40.7481 23.9174,40.4528 23.9174,39.8622 Z Z " fill="#126A98" stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 20.6693,35.1378 C 22.441,35.1378 23.9174,34.5473 23.9174,33.9567 C 23.9174,33.3662 22.441,32.7756 20.6693,32.7756 C 19.1929,32.7756 17.7166,33.3662 17.7166,33.9567 C 17.7166,34.5473 19.1929,35.1378 20.6693,35.1378 Z Z " fill="#126A98" stroke="#FFFFFF" stroke-width="0.88585" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 3.54329999999999,39.567 L 9.7441,39.567 L 9.7441,41.0433 L 12.4016,39.2717 L 9.7441,37.2048 L 9.7441,38.6811 L 3.54329999999999,38.6811 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 3.54329999999999,39.567 L 9.7441,39.567 L 9.7441,41.0433 L 12.4016,39.2717 L 9.7441,37.2048 L 9.7441,38.6811 L 3.54329999999999,38.6811 " stroke="none" stroke-width="0" fill="none"/>
+        <path d="M 12.1063,34.252 L 5.90550000000002,34.252 L 5.90550000000002,33.0709 L 3.24810000000002,34.8426 L 5.90550000000002,36.9095 L 5.90550000000002,35.4331 L 12.1063,35.4331 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 12.1063,34.252 L 5.90550000000002,34.252 L 5.90550000000002,33.0709 L 3.24810000000002,34.8426 L 5.90550000000002,36.9095 L 5.90550000000002,35.4331 L 12.1063,35.4331 " stroke="none" stroke-width="0" fill="none"/>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>
+
