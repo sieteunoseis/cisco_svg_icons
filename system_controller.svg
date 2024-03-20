@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 105 99" >
+  <title><![CDATA[System controller]]></title>
+  <g transform=" scale(3.000000) ">
+    <!--converted by libvisio2svg-->
+    <g>
+      <!--emf-blob start-->
+      <g>
+        <path d="M 25.383,32.1714 L 25.383,6.19810000000001 L 0,6.19810000000001 L 0,32.1714 L 25.383,32.1714 Z " fill="#0E6F9C" stroke="#FFFFFF" stroke-width="0.88545" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 25.383,6.19810000000001 L 34.2375,0 L 8.8546,0 L 0,6.19810000000001 L 25.383,6.19810000000001 Z " fill="#0E6F9C" stroke="#FFFFFF" stroke-width="0.88545" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 34.2375,25.9732 L 34.2375,0 L 25.6782,6.19810000000001 L 25.6782,32.1714 L 34.2375,25.9732 Z " fill="#0E6F9C" stroke="#FFFFFF" stroke-width="0.88545" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 12.6915,18.5945 C 15.0527,18.5945 17.1188,16.5284 17.1188,14.1672 C 17.1188,11.5108 15.0527,9.73990000000003 12.6915,9.73990000000003 C 10.0352,9.73990000000003 7.96909999999997,11.5108 7.96909999999997,14.1672 C 7.96909999999997,16.5284 10.0352,18.5945 12.6915,18.5945 Z Z " stroke="#FFFFFF" stroke-width="2.65635" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 12.6915,20.0702 L 12.6915,26.8587 " stroke="#FFFFFF" stroke-width="2.65635" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 15.643,26.8587 L 9.74000000000001,26.8587 L 12.6915,30.4005 L 15.643,26.8587 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 9.44490000000002,19.1848 L 5.60789999999997,25.0878 " stroke="#FFFFFF" stroke-width="2.65635" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 8.26429999999999,26.5635 L 3.24669999999998,23.612 L 3.83699999999999,27.7441 L 8.26429999999999,26.5635 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 15.643,19.1848 L 19.48,25.0878 " stroke="#FFFFFF" stroke-width="2.65635" stroke-linecap="butt" stroke-linejoin="miter" fill="none"/>
+        <path d="M 17.1188,26.5635 L 21.8412,23.612 L 21.2509,27.7441 L 17.1188,26.5635 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>
+

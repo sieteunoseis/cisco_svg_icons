@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 132 90" >
+  <title><![CDATA[Voice router]]></title>
+  <g transform=" scale(3.000000) ">
+    <!--converted by libvisio2svg-->
+    <g>
+      <!--emf-blob start-->
+      <g>
+        <path d="M 43.385,8.55900000000003 C 43.385,13.2812 33.6455,17.1179 21.84,17.1179 C 9.73939999999999,17.1179 0,13.2812 0,8.55900000000003 C 0,20.9547 0,20.9547 0,20.9547 C 0,25.6769 9.73939999999999,29.5137 21.84,29.5137 C 33.6455,29.5137 43.385,25.6769 43.385,20.9547 Z Z " fill="#0E6F9C" stroke="#FFFFFF" stroke-width="0.8854" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 21.84,17.1179 C 33.6455,17.1179 43.385,13.2812 43.385,8.55900000000003 C 43.385,3.83680000000004 33.6455,0 21.84,0 C 9.73939999999999,0 0,3.83680000000004 0,8.55900000000003 C 0,13.2812 9.73939999999999,17.1179 21.84,17.1179 Z Z " fill="#0E6F9C" stroke="#FFFFFF" stroke-width="0.8854" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <path d="M 16.8227,5.3125 L 18.5934999999999,7.96870000000001 L 11.8054,9.44440000000003 L 13.2811,8.2638 L 2.65619999999996,6.49300000000005 L 5.31239999999997,4.42710000000005 L 15.6422,6.1979 L 16.8227,5.3125 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 26.2671,11.8055000000001 L 25.0865,9.14930000000004 L 31.2844,7.67360000000002 L 30.1039,8.85410000000002 L 40.4336,10.6249 L 37.7774,12.3958 L 27.7428,10.6249 L 26.2671,11.8055000000001 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 23.0206,3.83680000000004 L 29.8087,2.06600000000003 L 29.8087,4.72220000000004 L 28.0379,4.42710000000005 L 24.7914,7.3784 L 21.5449,6.78820000000002 L 25.0865,4.13190000000003 L 23.0206,3.83680000000004 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 20.0692,14.4617 L 13.5762,15.6423 L 13.2811,12.3958 L 15.0519,12.986 L 18.5934999999999,9.73950000000002 L 21.84,10.3298 L 18.0033,13.8714000000001 L 20.0692,14.4617 Z " fill="#FFFFFF" stroke-width="1px" stroke="#FFFFFF"/>
+        <path d="M 26.8574,28.038 L 26.8574,18.0033 L 16.8227,18.0033 L 16.8227,28.038 L 26.8574,28.038 Z " fill="#000000" stroke="#FFFFFF" stroke-width="0.8854" stroke-linecap="butt" stroke-linejoin="miter"/>
+        <g transform=" scale(3.000000) ">
+          <text font-family="Helvetica" fill="#FFFFFF" style="white-space:pre;" font-weight="700" text-anchor="start" x="0.0000" y="0.0000" font-size="11.8055"><![CDATA[V]]></text>
+        </g>
+        <g transform=" scale(3.000000) ">
+</g>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>
+
